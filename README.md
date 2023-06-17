@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @TrungTinTechBee
+- 👋 Hi, I’m trungtin-techbee
 - 👀 I’m interested in TypeScript, NodeJS, NextJS and so on
 - 🌱 I’m currently learning NextJS and NodeJs
 - 💞️ I’m looking to collaborate on BE
